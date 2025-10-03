@@ -11,7 +11,7 @@ Original file is located at
 import streamlit as st
 import pandas as pd
 
-!pip install streamlit
+#!pip install streamlit
 
 #importamos las librerias
 import streamlit as st
